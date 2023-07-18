@@ -1,1 +1,1 @@
-# Klasifikasi-Citra-Tingkat-Kematangan-Tomat
+# Klasifikasi-Citra-Tingkat-Kematangan-Tomat-CNN
