@@ -23,10 +23,14 @@
    - Evaluasi model dilakukan pada set pengujian (X_test, y_test_encoded).
 8. Visualisasi Akurasi dan Loss
    - Visualisasi grafik loss selama pelatihan model.
+   
    ![out2put](https://github.com/DeagamaAntariksa/Klasifikasi-Citra-Tingkat-Kematangan-Tomat/assets/81089892/35aba1a7-bfc2-4260-a340-b149ed60c80c)
    Grafik loss menunjukkan perubahan nilai loss pada set pelatihan dan pengujian.
+
+
    - Visualisasi grafik akurasi selama pelatihan model.
    ![output3](https://github.com/DeagamaAntariksa/Klasifikasi-Citra-Tingkat-Kematangan-Tomat/assets/81089892/c409228f-ad3c-4b8c-8188-93bec028caa2)
+   Grafik akurasi menunjukkan perubahan nilai akurasi pada set pelatihan dan pengujian.
 
 10. Evaluasi Model
     Loss pada data uji adalah 0.1185 dan akurasi adalah 0.9756.
