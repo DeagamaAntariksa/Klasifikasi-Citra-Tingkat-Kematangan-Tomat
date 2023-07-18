@@ -1,6 +1,8 @@
 
 # Klasifikasi-Citra-Tingkat-Kematangan-Tomat-CNN
 
+TERDAPAT 3 GAMBAR TOMAT YANG TELAH DIBAGI, MATANG, MENTAH DAN SETENGAH MATANG 
+
 ![output](https://github.com/DeagamaAntariksa/Klasifikasi-Citra-Tingkat-Kematangan-Tomat/assets/81089892/7c79e1b2-02b1-4bc3-b97c-c487beef9a8d)
 
 
